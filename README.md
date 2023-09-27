@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on anything with machine learning, for experience.
 - 📫 How to reach me: pigeon carrier, or drake001GH@gmail.com
 
-<!---
-Drake-001/Drake-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+"Gliding o'er all, through all,
+Through Nature, Time, and Space,
+As a ship on the waters advancing,
+The voyage of the soul—not life alone,
+Death, many deaths I'll sing."
+-Whitman
